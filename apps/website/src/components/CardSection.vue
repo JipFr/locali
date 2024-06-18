@@ -4,7 +4,7 @@
       <div class="grid grid-cols-1 gap-5">
         <Card>
           <IconCircle class="bg-[#F2F4FF] text-[#2338A9]">
-            <NuxtIcon name="mingcute:github-fill" />
+            <Icon name="mingcute:github-fill" />
           </IconCircle>
           <CardTitle>Validate translations with Locali Checks</CardTitle>
           <Paragraph>
@@ -14,7 +14,7 @@
         </Card>
         <Card>
           <IconCircle class="bg-[#F1DFFF] text-[#A948D7]">
-            <NuxtIcon name="mingcute:github-fill" />
+            <Icon nameIcon name="mingcute:github-fill" />
           </IconCircle>
           <CardTitle>Synchronize with Git</CardTitle>
           <Paragraph>
@@ -24,7 +24,7 @@
         </Card>
         <Card>
           <IconCircle class="bg-[#F8D9E0] text-[#E13065]">
-            <NuxtIcon name="mingcute:github-fill" />
+            <Icon name="mingcute:github-fill" />
           </IconCircle>
           <CardTitle>Fit any team size</CardTitle>
           <Paragraph>
@@ -36,7 +36,7 @@
       <div class="mt-[80px] grid grid-cols-1 gap-5">
         <Card>
           <IconCircle class="bg-[#D9F8D9] text-[#23A938]">
-            <NuxtIcon name="mingcute:github-fill" />
+            <Icon name="ri:git-branch-fill" />
           </IconCircle>
           <CardTitle>Proudly open source</CardTitle>
           <Paragraph>
@@ -46,7 +46,7 @@
         </Card>
         <Card>
           <IconCircle class="bg-[#F8D9E0] text-[#E13065]">
-            <NuxtIcon name="mingcute:github-fill" />
+            <Icon name="mingcute:github-fill" />
           </IconCircle>
           <CardTitle>Approval system</CardTitle>
           <Paragraph>
@@ -55,13 +55,13 @@
             translations before they go through.
           </Paragraph>
         </Card>
-        <Card class="bg-[#0D151F]">
+        <Card class="!bg-[#0D151F]">
           <CardTitle class="text-white">Interested?</CardTitle>
           <Paragraph class="text-[#9296B4]">
             Join the waitlist and get updates on progress on Locali while it's
             being built. You may even get early access to the platform.
           </Paragraph>
-          <Button class="mt-7"> Join the waitlist! </Button>
+          <Button class="mt-7 w-full"> Join the waitlist! </Button>
         </Card>
       </div>
     </div>
