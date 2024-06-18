@@ -1,5 +1,7 @@
 <template>
   <div>
-    <IconLogo />
+    <Hero />
+    <CardSection />
+    <Footer />
   </div>
 </template>
